@@ -1,4 +1,4 @@
-## gatsby-tutorial part-four
+## gatsby-tutorial part-six
 
 1.  **Reference site**: 
 
@@ -15,4 +15,4 @@
 
 3.  **How was it?**
 
-    
+    GraphQL is cool
